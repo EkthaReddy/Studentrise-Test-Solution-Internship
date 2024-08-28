@@ -1,6 +1,6 @@
 # Studentrise-Test-Solution-Internship
 
-
+## Handwritten Digit Recognizer
 To develop a handwritten digit recognizer using the MNIST dataset, you can follow these steps:
 
 1. **Set Up the Environment:**
